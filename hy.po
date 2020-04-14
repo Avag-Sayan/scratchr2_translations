@@ -1,0 +1,1896 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-23 20:02+0100\n"
+"PO-Revision-Date: 2020-04-13 21:42+0400\n"
+"Last-Translator: Avag Sayan <info@armath.am>\n"
+"Language-Team: Armath Technical Community"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hy\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-POOTLE-MTIME: 1367455321.000000\n"
+
+msgid "%b and %b"
+msgstr "%b և %b"
+
+msgid "%b or %b"
+msgstr "%b կամ %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.spriteOrStage ից %m.attribute"
+
+msgid "%m.list contains %s?"
+msgstr "%m.list ֊ը պարունակում է %s?"
+
+msgid "%m.mathOp of %n"
+msgstr "%n ից %m.mathOp֊ը"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor ցուցիչի արժեքը"
+
+msgid "%n mod %n"
+msgstr "%n մնացորդ %n"
+
+msgid "Control"
+msgstr "Կառավարում"
+
+msgid "Data"
+msgstr "Փոփոխական"
+
+msgid "Events"
+msgstr "Իրադարձություն"
+
+msgid "Looks"
+msgstr "Տեսք"
+
+msgid "More Blocks"
+msgstr "Մասնիկ"
+
+msgid "Motion"
+msgstr "Շարժ"
+
+msgid "Operators"
+msgstr "Հաշվարկ"
+
+msgid "Pen"
+msgstr "Գրիչ"
+
+msgid "Sensing"
+msgstr "Ընկալում"
+
+msgid "Sound"
+msgstr "Ձայն"
+
+msgid "add %s to %m.list"
+msgstr "ավելացնել %s տարրը %m.list ֊ին"
+
+msgid "answer"
+msgstr "պատասխանել"
+
+msgid "ask %s and wait"
+msgstr "հարցնել %s և սպասել"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "ետնապատկեր #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "ետնապատկերիի անվանումը"
+
+msgid "broadcast %m.broadcast"
+msgstr "հաղորդել %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "հաղորդել %m.broadcast և սպասել"
+
+msgid "change %m.effect effect by %n"
+msgstr "փոխել %m.effect էֆեկտը %n ֊ով"
+
+msgid "change %m.var by %n"
+msgstr "փոխել %m.var փոփոխականը %n ֊ով"
+
+msgid "change pen color by %n"
+msgstr "փոխել գրիչի գույնը %n ֊ով"
+
+msgid "change pen shade by %n"
+msgstr "փոխել գրիչի ստվերը %n ֊ով"
+
+msgid "change pen size by %n"
+msgstr "փոխել գրիչի չափսը %n ֊ով"
+
+msgid "change size by %n"
+msgstr "փոխել չափսը %n ֊ով"
+
+msgid "change tempo by %n"
+msgstr "փոխել տեմպը %n ֊ով"
+
+msgid "change volume by %n"
+msgstr "փոխել ձայնի ուժգնությունը %n ֊ով"
+
+msgid "change x by %n"
+msgstr "փոխել x ը %n ֊ով"
+
+msgid "change y by %n"
+msgstr "փոխել y ը %n ֊ով"
+
+msgid "clear"
+msgstr "մաքրել"
+
+msgid "clear graphic effects"
+msgstr "մաքրել գրաֆիկական էֆեկտները"
+
+msgid "color %c is touching %c?"
+msgstr "%c գույնը հպվո՞ւմ է %c ին"
+
+msgid "costume #"
+msgstr "զգեստ #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "ստեղծել %m.spriteOnly ի կրկնօրինակը"
+
+msgid "current %m.timeAndDate"
+msgstr "ընթացիկ %m.timeAndDate"
+
+msgid "days since 2000"
+msgstr "օրերը՝ սկսած 2000 -ից"
+
+msgid "define"
+msgstr "սահմանել"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "ջնջել %d.listDeleteItem ֊ը %m.list ֊ից"
+
+msgid "delete this clone"
+msgstr "ջնջել այս կրկնօրինակը"
+
+msgid "direction"
+msgstr "ուղղություն"
+
+msgid "distance"
+msgstr "հեռավորություն"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "հեռավորությունը մինչև %m.spriteOrMouse"
+
+msgid "else"
+msgstr "այլապես"
+
+msgid "forever"
+msgstr "անվերջ"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "սահել %n վայրկյան դեպի x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "վերադառնալ %n շերտ"
+
+msgid "go to %m.location"
+msgstr "գնալ դեպի %m.location"
+
+msgid "go to front"
+msgstr "գնալ վերին շերտ"
+
+msgid "go to x:%n y:%n"
+msgstr "գնալ դեպի x:%n y:%n"
+
+msgid "hide"
+msgstr "թաքցնել"
+
+msgid "hide list %m.list"
+msgstr "թաքցնել %m.list ցանկը"
+
+msgid "hide variable %m.var"
+msgstr "թաքցնել փոփոխականը %m.var "
+
+msgid "if %b then"
+msgstr "եթե %b ապա"
+
+msgid "if on edge, bounce"
+msgstr "եթե եզրին է, հրվել"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "տեղադրել %s %d.listItem ֊ից %m.list ֊ի մեջ "
+
+msgid "item %d.listItem of %m.list"
+msgstr "%d.listItem տարրը %m.list -ից"
+
+msgid "join %s %s"
+msgstr "միավորել%s %s"
+
+msgid "key %m.key pressed?"
+msgstr "%m.key ստեղնը սեղմվա՞ծ է"
+
+msgid "length of %m.list"
+msgstr "%m.list ցուցակի երկարությունը"
+
+msgid "length of %s"
+msgstr "%s տողի երկարությունը"
+
+msgid "letter %n of %s"
+msgstr "թիվ %n տառը %s -ի"
+
+msgid "loudness"
+msgstr "ձայնի բարձրություն"
+
+msgid "mouse down?"
+msgstr "մկնիկն իջեցվա՞ծ է"
+
+msgid "mouse x"
+msgstr "մկնիկի x֊ը"
+
+msgid "mouse y"
+msgstr "մկնիկի y֊ը"
+
+msgid "move %n steps"
+msgstr "տեղափոխվել %n քայլ"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "հաջորդ ետնապատկերը"
+
+msgid "next costume"
+msgstr "հաջորդ զգեստը"
+
+msgid "not %b"
+msgstr "ոչ %b"
+
+msgid "pen down"
+msgstr "գրիչն իջեցնել"
+
+msgid "pen up"
+msgstr "գրիչը բարձրացնել"
+
+msgid "pick random %n to %n"
+msgstr "պատահական թիվ՝ %n ֊ից %n ֊ը"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%d.drum թմբկահարել %n տակտ"
+
+msgid "play note %d.note for %n beats"
+msgstr "նվագել %d.note նոտան %n տակտ"
+
+msgid "play sound %m.sound"
+msgstr "արտաբերել %m.sound ձայնը"
+
+msgid "play sound %m.sound until done"
+msgstr "արտաբերել %m.sound ձայնը մինչև ավարտը"
+
+msgid "point in direction %d.direction"
+msgstr "ուղղությունը՝ %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "ուղղվել դեպի %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "կրկնել %n"
+
+msgid "repeat until %b"
+msgstr "կրկնել մինչև %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "փոխարինել %d.listItem -տարրը %m.list ֊ից %s ֊ով"
+
+msgid "reset timer" 
+msgstr "զրոյացնել վայրկյանաչափը"
+
+msgid "rest for %n beats"
+msgstr "Դադարեցնել %n տակտ"
+
+msgid "round %n"
+msgstr "կլորացնել %n ֊ը"
+
+msgid "say %s"
+msgstr "ասել %s"
+
+msgid "say %s for %n secs"
+msgstr "ասել %s %n վայրկյան"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "Ցուցիչ %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "կիրառել %m.effect էֆեկտը %n արժեքով"
+
+msgid "set %m.motor power to %n"
+msgstr "սահմանել %m.motor հզորությունը to %n"
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "սահմանել %m.motor2 ուղղությունը %m.motorDirection"
+
+msgid "set %m.var to %s"
+msgstr "%m.var ՝ %s ֊ի"
+
+msgid "set instrument to %d.instrument"
+msgstr "սահմանել գործիքը %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "գրիչի գույնը %c"
+
+msgid "set pen color to %n"
+msgstr "գրիչի գույնը՝ %n"
+
+msgid "set pen shade to %n"
+msgstr "գրիչի ստվերը՝ %n"
+
+msgid "set pen size to %n"
+msgstr "գրիչի չափսը՝ %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "պտույտի ձևը՝ %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "չափսը՝ %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "տեմպը՝ %n զարկ/րոպե"
+
+msgid "set video transparency to %n%"
+msgstr "տեսագրության թափանցիկությունը՝ %n%"
+
+msgid "set volume to %n%"
+msgstr "ձայնի բարձրությունը՝ %n%"
+
+msgid "set x to %n"
+msgstr "x֊ը՝ %n"
+
+msgid "set y to %n"
+msgstr "y֊ը՝ %n"
+
+msgid "show"
+msgstr "ցույց տալ"
+
+msgid "show list %m.list"
+msgstr "ցույց տալ %m.list ցանկը"
+
+msgid "show variable %m.var"
+msgstr "ցույց տալ %m.var փոփոխականը"
+
+msgid "size"
+msgstr "չափս"
+
+msgid "stamp"
+msgstr "Կնիք"
+
+msgid "stop %m.stop"
+msgstr "դադարեցնել %m.stop"
+
+msgid "stop all sounds"
+msgstr "դադարեցնել բոլոր ձայները"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "Ետնապատը փոխարինել %m.backdrop ետնապատով"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "Ետնապատը փոխարինել %m.backdrop ետնապատով և սպասել"
+
+msgid "switch costume to %m.costume"
+msgstr "փոխարինել %m.costume -ով"
+
+msgid "tempo"
+msgstr "Տեմպ"
+
+msgid "think %s"
+msgstr "մտածել %s"
+
+msgid "think %s for %n secs"
+msgstr "մտածել %s %n վարկյանում"
+
+msgid "tilt"
+msgstr "Թեքում"
+
+msgid "timer"
+msgstr "Վայկյանաչափ"
+
+msgid "touching %m.touching?"
+msgstr "հպվու՞մ է %m.touching ին"
+
+msgid "touching color %c?"
+msgstr "հպվու՞մ է %c գույնին"
+
+msgid "turn %m.motor off"
+msgstr "անջատել %m.motor֊ը "
+
+msgid "turn %m.motor on"
+msgstr "միացնել %m.motor֊ը"
+
+msgid "turn %m.motor on for %n secs"
+msgstr "միացնել %m.motor֊ը %n վրկ․"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "շրջվել @turnLeft %n աստիճան"
+
+msgid "turn @turnRight %n degrees"
+msgstr "շրջվել @turnRight %n աստիճան"
+
+msgid "turn video %m.videoState"
+msgstr "Միացնել %m.videoState տեսագրությունը"
+
+msgid "username"
+msgstr "օգտվողի անունը"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "տեսագրություն %m.videoMotionType on %m.stageOrThis"
+
+msgid "volume"
+msgstr "Ձայն"
+
+msgid "wait %n secs"
+msgstr "սպասել %n վայրկյան"
+
+msgid "wait until %b"
+msgstr "սպասել մինչև %b"
+
+msgid "when %m.booleanSensor"
+msgstr "Երբ %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "երբ %m.key ստեղնը սեղմված է"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "երբ %m.sensor %m.lessMore %n"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "Երբ %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "երբ @greenFlag ը սեղմված է"
+
+msgid "when I receive %m.broadcast"
+msgstr "Երբ ստանամ %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr "Երբ սկսում եմ որպես կրկնօրինակ"
+
+msgid "when Stage clicked"
+msgstr "երբ Բեմը սեղմված է"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "Երբ ետնապատկերը փոխարինվում է %m.backdrop -ով"
+
+msgid "when distance %m.lessMore %n"
+msgstr "երբ հեռավորությունը %m.lessMore %n"
+
+msgid "when this sprite clicked"
+msgstr "Երբ սեղմեմ այս օբյեկտի վրա"
+
+msgid "when tilt %m.eNe %n"
+msgstr "երբ թեքությունը %m.eNe %n"
+
+msgid "x position"
+msgstr "Դիրքն x ի վրա"
+
+msgid "y position"
+msgstr "Դիրքն y ի վրա"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Հայերեն"
+
+msgid "%m.list contains %s"
+msgstr "%m.list ֊ը պարունակում է %s"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "գնալ դեպի %m.spriteOrMouse"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "Սահմանել շարժիչի հզորությունը %n"
+
+msgid "turn motor off"
+msgstr "Անջատել շարժիչը"
+
+msgid "turn motor on"
+msgstr "Միացնել շարժիչը"
+
+msgid "turn motor on for %n secs"
+msgstr "Միացնել շարժիչը %n վայրկյանով"
+
+msgid "when distance < %n"
+msgstr "Երբ տարածությունը < %n ից"
+
+msgid "when tilt = %n"
+msgstr "Երբ թեքությունը = %n"
+
+msgid "10 ^"
+msgstr "10 ^"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Տեղեկություն Cloud-ի փոփոխականների վերաբերյալ</b><br>&nbsp;"
+"<br>Ներկայումս միայն թվերն ունեն աջակցություն<br>Զրուցարանները չեն "
+"թույլատրվում և կհեռացվեն<br>մանրամասների համար. <a href= target=>տես Cloud "
+"data FAQ!</a>"
+
+msgid "A connected"
+msgstr "A՝ միացված "
+
+msgid "A newer version of Scratch is available"
+msgstr "Հասանելի է Scratch֊ի նոր տարբերակը"
+
+msgid "About"
+msgstr "Մեր մասին"
+
+msgid "Account settings"
+msgstr "Հաշվի կարգավորումները"
+
+msgid "Add"
+msgstr "Ավելացնել"
+
+msgid "Add an Extension"
+msgstr "Ավելացնել հավելումներ"
+
+msgid "Add boolean input:"
+msgstr "Ավելացնել բուլյան մուտքագրումը."
+
+msgid "Add label text:"
+msgstr "Ավելացնել պիտակի տեքստ"
+
+msgid "Add number input:"
+msgstr "Ավելացնել թվային մուտքագրում"
+
+msgid "Add string input:"
+msgstr "Ավելացնել տեքստային մուտքագրում"
+
+msgid "All"
+msgstr "Բոլորը"
+
+msgid "All Tips"
+msgstr "Բոլոր հուշումները"
+
+msgid ""
+"An updated version of the Scratch offline editor is available on the "
+"Scratch website."
+msgstr ""
+"Scratch֊ի առանց համանցանցի թարմացված տարբերակը հասանելի է scratch.mit.edu "
+"կայքում։"
+
+msgid "Animal"
+msgstr "Կենդանի"
+
+msgid "Animals"
+msgstr "Կենդանիներ"
+
+msgid "B connected"
+msgstr "B֊ն միացված է"
+
+msgid "Back a layer"
+msgstr "Մի շերտ հետ"
+
+msgid "Backdrop"
+msgstr "Ետնապատկեր"
+
+msgid "Backdrop Library"
+msgstr "Ետնապատերի պահոց"
+
+msgid "Backdrops"
+msgstr "Ետնապատկերներ"
+
+msgid "Backpack"
+msgstr "Ուսապարկ"
+
+msgid "Bass"
+msgstr "Բաս"
+
+msgid "Bass Drum"
+msgstr "Տոմ-տոմ"
+
+msgid "Bassoon"
+msgstr "Ֆագոտ"
+
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
+msgstr ""
+"Քանի որ դուք Scratch-ում նոր հաշիվ ունեք, ուստի cloud -ի տվյալների որևէ "
+"փոփոխություն չի պահպանվի: Շարունակեք հետևել մեր կայքին և դուք կկարողանաք "
+"շուտով օգտվել cloud -ի տվյալներից:"
+
+msgid "Bitmap"
+msgstr "Bitmap"
+
+msgid "Bitmap Mode"
+msgstr "Bitmap ռեժիմով"
+
+msgid "Block help"
+msgstr "Մասնիկների օգնություն"
+
+msgid "Bongo"
+msgstr "Bongo"
+
+msgid "Bring to front"
+msgstr "Առաջ բերել"
+
+msgid "Broadcast"
+msgstr "Հաղորդել"
+
+msgid "Brush"
+msgstr "Վրձին"
+
+msgid "C connected"
+msgstr "C֊ն միացված է"
+
+msgid "Cabasa"
+msgstr "Կաբասա"
+
+msgid "Camera"
+msgstr "Տեսախցիկ"
+
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+msgid "Cannot Delete"
+msgstr "Չի ջնջվում"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Չի կարողանում գտնել ցանցի միացումը և կապ հաստատել սերվերի հետ"
+
+msgid "Castle"
+msgstr "Ամրոց"
+
+msgid "Category"
+msgstr "Կատեգորիա"
+
+msgid "Cello"
+msgstr "Թավջութակ"
+
+msgid "Check for updates"
+msgstr "Ստուգել թարմացումները"
+
+msgid "Choir"
+msgstr "Երգչախումբ"
+
+msgid "Choose backdrop from library"
+msgstr "Ընտրել ետնապատկերը պահոցից"
+
+msgid "Choose costume from library"
+msgstr "Ընտրել զգեստը պահոցից"
+
+msgid "Choose sound from library"
+msgstr "Ընտրել ձայնը պահոցից"
+
+msgid "Choose sprite from library"
+msgstr "Ընտրել կերպարը պահոցից"
+
+msgid "Circle"
+msgstr "Շրջանագիծ"
+
+msgid "City"
+msgstr "Քաղաք"
+
+msgid "Clarinet"
+msgstr "Կլառնետ"
+
+msgid "Claves"
+msgstr "Փայտիկներ"
+
+msgid "Clear"
+msgstr "Մաքրել"
+
+msgid "Click \"Save now\" to try again or \"Download\" to save"
+msgstr "Սեղմել «Պահել հիմա» կրկին փորձելու կամ «Ներբեռնել» պահպանելու համար:"
+
+msgid "Close"
+msgstr "Փակել"
+
+msgid "Closed Hi-Hat"
+msgstr "Փակված ծնծղա"
+
+msgid "Cloud data"
+msgstr "Ամպային տվյալներ"
+
+msgid "Cloud list (stored on server)"
+msgstr "Ամպի ցուցակը (սերվերում պահված)"
+
+msgid "Cloud variable (stored on server)"
+msgstr "Ամպային փոփոխական (սերվերում պահված)"
+
+msgid "Color a shape"
+msgstr "Գունավորել պատկերը"
+
+msgid "Conga"
+msgstr "Կոնգա"
+
+msgid "Connecting to Cloud data server..."
+msgstr "Միացում Cloud -ի տվյալների սերվերին․․․"
+
+msgid "Convert to bitmap"
+msgstr "Փոխարկել bitmap-ի"
+
+msgid "Convert to vector"
+msgstr "Վերածել վեկտորի"
+
+msgid "Converting mp3..."
+msgstr "Վերածել mp3..."
+
+msgid "Copying..."
+msgstr "Պատճենում է․․․"
+
+msgid "Costume"
+msgstr "Զգեստ"
+
+msgid "Costume Library"
+msgstr "Զգեստի պահոց"
+
+msgid "Costumes"
+msgstr "Զգեստներ"
+
+msgid "Costumes > 1"
+msgstr "Զգեստներ > 1"
+
+msgid "Could not retrieve new application from server."
+msgstr "Չի կարողանում սերվերից ստանալ նոր ծրագիրը։"
+
+msgid "Could not retrieve update location from server."
+msgstr "Չի կարողանում սերվերից ստանալ թարմացման վայրը"
+
+msgid "Could not retrieve version information from server."
+msgstr "Չի կարողանում սերվերից ստանալ տարբերակի տվյալները։"
+
+msgid "Could not write file:"
+msgstr "Չի կարողանում գրանցել նիշքը ՝"
+
+msgid "Cowbell"
+msgstr "Ծվծվուկ"
+
+msgid "Crash Cymbal"
+msgstr "Դղրդյունով ծնծղա"
+
+msgid "Creating..."
+msgstr "Ստեղծում է..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Այժմ միայն թվերը կարող են պահվել Ամպային տվյալների փոփոխականներում:"
+
+msgid "D connected"
+msgstr "D-n միացված"
+
+msgid "Dance"
+msgstr "Պարել"
+
+msgid "Delete"
+msgstr "Ջնջել"
+
+msgid "Don't save"
+msgstr "Չպահպանել"
+
+msgid "Download"
+msgstr "Ներբեռնել"
+
+msgid "Download to your computer"
+msgstr "Ներբեռնել համակարգչի մեջ"
+
+msgid "Downloading new version..."
+msgstr "Նոր տարբերակի ներբեռնում․․․"
+
+msgid "Dress-Up"
+msgstr "Հագնվել"
+
+msgid "Duplicate"
+msgstr "Կրկնօրինակել"
+
+msgid "Edit"
+msgstr "Խմբագրել"
+
+msgid "Edit Block"
+msgstr "Խմբագրել մասնիկը"
+
+msgid "Effects"
+msgstr "Էֆեկտներ"
+
+msgid "Electric Guitar"
+msgstr "Էլեկտրական կիթառ"
+
+msgid "Electric Piano"
+msgstr "Էլեկտրական դաշնամուր"
+
+msgid "Electronic"
+msgstr "Էլեկտրական"
+
+msgid "Ellipse"
+msgstr "Էլիպս"
+
+msgid "Erase"
+msgstr "Մաքրել"
+
+msgid "Eraser width"
+msgstr "Ռետինի լայնքը"
+
+msgid "Error saving project"
+msgstr "Նախագծի պահպանման սխալ"
+
+msgid "Error!"
+msgstr "Սխալ"
+
+msgid "Fantasy"
+msgstr "Երևակայական"
+
+msgid "Features"
+msgstr "Հատկանիշներ"
+
+msgid "File"
+msgstr "Նիշք"
+
+msgid "Fill with color"
+msgstr "Լցնել գույնով"
+
+msgid "Flip left-right"
+msgstr "Շարժել ձախ աջ"
+
+msgid "Flip up-down"
+msgstr "Շարժել վեր ու վար"
+
+msgid "Flute"
+msgstr "Ֆլեյտա"
+
+msgid "Flying"
+msgstr "Թռչող"
+
+msgid "Font:"
+msgstr "Տառատեսակ ՝"
+
+msgid "For all sprites"
+msgstr "Բոլոր կերպարների համար"
+
+msgid "For this sprite only"
+msgstr "Միայն այս կերպարի համար"
+
+msgid "Force help file update"
+msgstr "Ստիպողաբար թարմացնել «օգնություն» նիշքը"
+
+msgid "Forward a layer"
+msgstr "Մեկ շերտ առաջ"
+
+msgid "Go to My Stuff"
+msgstr "Գնալ դեպի իմ նյութերը"
+
+msgid "Group"
+msgstr "Խումբ"
+
+msgid "Grow"
+msgstr "Մեծանալ"
+
+msgid "Guiro"
+msgstr "Գուիրո"
+
+msgid "Guitar"
+msgstr "Կիթառ"
+
+msgid "Hand Clap"
+msgstr "Ձեռքով ծափ"
+
+msgid "Hardware"
+msgstr "Սարքավորում"
+
+msgid "High C"
+msgstr "Բարձր C"
+
+msgid "Holiday"
+msgstr "Արձակուրդ"
+
+msgid "Human"
+msgstr "Մարդ"
+
+msgid "Import"
+msgstr "Ներմուծել"
+
+msgid "Import experimental HTTP extension"
+msgstr "Ներմուծել փորձնական HTTP հավելված"
+
+msgid "Importing sound..."
+msgstr "Ներմուծում է ձայնը..."
+
+msgid "Indoors"
+msgstr "Շինության ներսում"
+
+msgid "Installing..."
+msgstr "Տեղադրում է..."
+
+msgid "Instruments"
+msgstr "Գործիքներ"
+
+msgid "Letters"
+msgstr "Տառեր"
+
+msgid "Library"
+msgstr "Գրադարան"
+
+msgid "Line"
+msgstr "Գիծ"
+
+msgid "Line width"
+msgstr "Գծի հաստություն"
+
+msgid "List name"
+msgstr "Ցուցակի անունը"
+
+msgid "Loading help files..."
+msgstr "Բեռնում է «օգնություն» նիշքը․․․"
+
+msgid "Loading project..."
+msgstr "Նախագծի բեռնում․․․"
+
+msgid "Low C"
+msgstr "Ցածր C"
+
+msgid "Make a Block"
+msgstr "Ստեղծել մասնիկ"
+
+msgid "Make a List"
+msgstr "Ստեղծել ցուցակ"
+
+msgid "Make a Variable"
+msgstr "Ստեղծել փոփոխական"
+
+msgid "Manual Update Available"
+msgstr "Հասանելի է ձեռքով թարմացումը"
+
+msgid "Marimba"
+msgstr "Մարիմբա"
+
+msgid "Max"
+msgstr "Առավելագույն"
+
+msgid "Message Name"
+msgstr "Հաղորդագրության անվանումը"
+
+msgid "Microphone volume:"
+msgstr "Միկրոֆոնի ուժգնությունը ՝"
+
+msgid "Middle C"
+msgstr "Միջին C"
+
+msgid "Min"
+msgstr "Նվազագույն"
+
+msgid "Multiple"
+msgstr "Բազմապատիկ"
+
+msgid "Music"
+msgstr "Երաժշտություն"
+
+msgid "Music Box"
+msgstr "Երաժշտական արկղիկ"
+
+msgid "Music Loops"
+msgstr "Երաժշտական հանգույց"
+
+msgid "Music and Dance"
+msgstr "Երաժշտություն և պար"
+
+msgid "Musical Notes"
+msgstr "Երաժշտական նոտաներ"
+
+msgid "My Class"
+msgstr "Իմ դասարանը"
+
+msgid "My Classes"
+msgstr "Իմ դասարանները"
+
+msgid "My Stuff"
+msgstr "Իմ ունեցածը"
+
+msgid "Nature"
+msgstr "Բնություն"
+
+msgid "New"
+msgstr "Նոր"
+
+msgid "New Block"
+msgstr "Նոր մասնիկ"
+
+msgid "New List"
+msgstr "Նոր ցուցակ"
+
+msgid "New Message"
+msgstr "Նոր հաղորդագրություն"
+
+msgid "New Variable"
+msgstr "Նոր փոփոխական"
+
+msgid "New backdrop from camera"
+msgstr "Նոր ետնապատկեր տեսախցիկի միջոցով"
+
+msgid "New backdrop:"
+msgstr "Նոր ետնապատկեր"
+
+msgid "New costume from camera"
+msgstr "Նոր զգեստ տեսախցիկի միջոցով"
+
+msgid "New costume:"
+msgstr "Նոր զգեստ ՝"
+
+msgid "New name"
+msgstr "Նոր անուն"
+
+msgid "New sound:"
+msgstr "Նոր ձայն ՝"
+
+msgid "New sprite from camera"
+msgstr "Նոր կերպար տեսախցիկի միջոցով"
+
+msgid "New sprite:"
+msgstr "Նոր կերպար ՝"
+
+msgid "No motion blocks"
+msgstr "Չկան շարժման հրամաններ"
+
+msgid "Not saved; network or server problem."
+msgstr "Չպահպանվեց, համացանցը կամ սերվերը խնդիր ունի։"
+
+msgid "Not saved; project did not load."
+msgstr "Չպահպանվեց. նախագիծը չի բեռնվել։"
+
+msgid "OK"
+msgstr "Հաստատել"
+
+msgid "Offline Editor"
+msgstr "Անցանց խմբագիր"
+
+msgid "Open"
+msgstr "Բացել"
+
+msgid "Open Cuica"
+msgstr "Բաց քուիքա"
+
+msgid "Open Hi-Hat"
+msgstr "Բաց բարձր ծնծղա"
+
+msgid "Open Project"
+msgstr "Բացել նախագիծ"
+
+msgid "Options"
+msgstr "Ընտրանքներ"
+
+msgid "Organ"
+msgstr "Երգեհոն"
+
+msgid "Other"
+msgstr "Այլ"
+
+msgid "Outdoors"
+msgstr "Շինությունից դուրս"
+
+msgid "Paint new backdrop"
+msgstr "Նկարել նոր ետնապատկեր"
+
+msgid "Paint new costume"
+msgstr "Նկարել նոր զգեստ"
+
+msgid "Paint new sprite"
+msgstr "Նկարել նոր կերպար"
+
+msgid "Password"
+msgstr "Գաղտնաբառ"
+
+msgid "Password is required"
+msgstr "Գաղտնաբառը պարտադիր է"
+
+msgid "Pencil"
+msgstr "Մատիտ"
+
+msgid "People"
+msgstr "Մարդիկ"
+
+msgid "Percussion"
+msgstr "հարվածային"
+
+msgid "Piano"
+msgstr "Դաշնամուր"
+
+msgid "Pick up color"
+msgstr "Ընտրել գույնը"
+
+msgid "Pizzicato"
+msgstr "Պիցիկատո"
+
+msgid "Please visit the download page to install it."
+msgstr "Տեղադրելու համար խնդրում ենք այցելել ներբեռնման էջը։"
+
+msgid "Profile"
+msgstr "Անձնական էջ"
+
+msgid "Project did not load."
+msgstr "Նախագիծը չի բեռնվել։"
+
+msgid "Project name"
+msgstr "Նախահծի անուն"
+
+msgid "Project name is required"
+msgstr "Նախագծի անունը պարտադիր է"
+
+msgid "Project not saved!"
+msgstr "Նախագիծը չի պահպանվել։"
+
+msgid "Quit"
+msgstr "Փակել"
+
+msgid "Record"
+msgstr "Ձայնագրել"
+
+msgid "Record Project Video"
+msgstr "Տեսագրել նախագիծը"
+
+msgid "Record new sound"
+msgstr "Ձայնագրել նոր ձայն"
+
+msgid "Rectangle"
+msgstr "Ուղղանկյուն"
+
+msgid "Redo"
+msgstr "Առաջ գնալ"
+
+msgid "Remix"
+msgstr "Նոր տարբերակ"
+
+msgid "Remixing..."
+msgstr "Նոր տարբերակի ստեղծում..."
+
+msgid "Remove Background"
+msgstr "Հանել ետնապատկերը"
+
+msgid "Rename"
+msgstr "Անվանափոխել"
+
+msgid "Replace existing project?"
+msgstr "Փոխարինել ընթացիկ նախագիծը ?"
+
+msgid "Reshape"
+msgstr "Ձևափոխել"
+
+msgid "Revert"
+msgstr "Վերականգնել"
+
+msgid "Reverting..."
+msgstr "Վերականգնվում է..."
+
+msgid "Run without screen refresh"
+msgstr "Սկսել առանց էկրանը թարմացնելու"
+
+msgid "Running pre-release"
+msgstr "Բացում է նախնական թողարկումը"
+
+msgid "Save"
+msgstr "Պահել"
+
+msgid "Save Project"
+msgstr "Պահել նախագիծը"
+
+msgid "Save a copy of this project and add your own ideas."
+msgstr "Պահել այս նախագծի պատճենը և ավելացրեք ձեր գաղափարները։"
+
+msgid "Save as"
+msgstr "Պահել որպես"
+
+msgid "Save as a copy"
+msgstr "Պահել, որպես պատճեն"
+
+msgid "Save now"
+msgstr "Պահել հիմա"
+
+msgid "Save project?"
+msgstr "Նախագիծը պահե՞լ"
+
+msgid "Saved"
+msgstr "Պահպանված"
+
+msgid "Saving changes..."
+msgstr "Պահում է փոփոխությունները..."
+
+msgid "Saving..."
+msgstr "Պահում է..."
+
+msgid "Saxophone"
+msgstr "Սաքսոֆոն"
+
+msgid "Scratch Updater"
+msgstr "Scratch֊ի թարմացում"
+
+msgid "Script"
+msgstr "Սցենար"
+
+msgid "Scripts"
+msgstr "Սցենարներ"
+
+msgid "See project page"
+msgstr "Տեսնել նախագծի էջը"
+
+msgid "Select"
+msgstr "Ընտրել"
+
+msgid "Select and duplicate"
+msgstr "Ընտրել և կրկնօրինակել"
+
+msgid "Send to back"
+msgstr "Հետ ուղարկել"
+
+msgid "Server error:"
+msgstr "Սերվերի սխալմունք ՝"
+
+msgid "Set Costume Center"
+msgstr "Նշել զգեստի կենտրոնը"
+
+msgid "Set costume center"
+msgstr "Նշել զգեստի կենտրոնը"
+
+msgid "Share"
+msgstr "Կիսվել"
+
+msgid "Share to Scratch Website"
+msgstr "Կիսվել scratch-ի կայքում"
+
+msgid "Share to website"
+msgstr "Կիսվել կայքում"
+
+msgid "Shift:"
+msgstr "Փոփոխել ՝"
+
+msgid "Shrink"
+msgstr "Սեղմել"
+
+msgid "Side Stick"
+msgstr "Կողային բռնակ"
+
+msgid "Sign in"
+msgstr "Մուտք գործել"
+
+msgid "Sign in to save"
+msgstr "Մուտք գործել պահպանելու համար"
+
+msgid "Sign out"
+msgstr "Դուրս գրվել"
+
+msgid "Slider Range"
+msgstr "Սահիչի սահմանները"
+
+msgid "Small stage layout"
+msgstr "Փոքր բեմի դասավորություն"
+
+msgid "Smooth"
+msgstr "Հարթ"
+
+msgid "Snare Drum"
+msgstr "Փոքր թմբուկ"
+
+msgid "Sound Library"
+msgstr "Ձայնի պահոց"
+
+msgid "Sounds"
+msgstr "Ձայն"
+
+msgid "Space"
+msgstr "Բացատ"
+
+msgid "Sports"
+msgstr "Սպորտ"
+
+msgid "Sprite"
+msgstr "Կերպար"
+
+msgid "Sprite Library"
+msgstr "Կերպարի պահոց"
+
+msgid "Sprite1"
+msgstr "Կերպար1"
+
+msgid "Sprites"
+msgstr "Կերպարներ"
+
+msgid "Square"
+msgstr "Քառակուսի"
+
+msgid "Stage"
+msgstr "Բեմ"
+
+msgid "Stage selected:"
+msgstr "Բեմն ընտրված է ՝"
+
+msgid "Steel Drum"
+msgstr "Մետաղյա թմբուկ"
+
+msgid "Success"
+msgstr "Հաջողվեց"
+
+msgid "Synth Lead"
+msgstr "Սինթեզատոր"
+
+msgid "Synth Pad"
+msgstr "Բարձր սինթեզատոր"
+
+msgid "Tambourine"
+msgstr "Դափ"
+
+msgid "Text"
+msgstr "Տեքստ"
+
+msgid "Theme"
+msgstr "Տեսք"
+
+msgid "Things"
+msgstr "Իրեր"
+
+msgid "This is the current version."
+msgstr "Սա ընթացիկ տարբերակն է։"
+
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
+msgstr ""
+"Այս նախագիծը \"օգտվողի անունը\" մասնիկի միջոցով կարող է հայտնաբերել, թե ով "
+"է օգտագործում: Ձեր ինքնությունը թաքցնելու համար դուրս եկեք նախքան ծրագրից "
+"օգտվելը:"
+
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed "
+"in users."
+msgstr ""
+"Այս նախագիծը կիրառում է Ամպային տվյալներ, որը հասանելի է միայն գրանցված "
+"օգտատերերի համար:"
+
+msgid "This version is newer than the current release version."
+msgstr "Այս տարբերակը ավելի նոր տարբերակ է, քան ընթացիկ թողարկվածը։"
+
+msgid "Throw away all changes since opening this project?"
+msgstr "Նախագիծը բացելուց հետո հրաժարվել կատարված բոլոր փոփոխություններից?"
+
+msgid "Tips"
+msgstr "Հուշումներ"
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+"Մասնիկի սահմանումը ջնջելու համար, նախ հեռացնել է պետք այս մասնիկի բոլոր "
+"կիրառումները:"
+
+msgid "Transportation"
+msgstr "Փոխադրում"
+
+msgid "Triangle"
+msgstr "Եռանկյուն"
+
+msgid "Trombone"
+msgstr "Տրոմբոն"
+
+msgid "Turbo Mode"
+msgstr "Տուրբո ռեժիմ"
+
+msgid "Turbo mode"
+msgstr "Տուրբո ռեժիմ"
+
+msgid "Type"
+msgstr "Գրել"
+
+msgid "Undelete"
+msgstr "Չեղարկել ջնջածը"
+
+msgid "Underwater"
+msgstr "Ստորջրյա"
+
+msgid "Undo"
+msgstr "Հետարկել"
+
+msgid "Undo Revert"
+msgstr "Հետարկել վերականգնումը"
+
+msgid "Ungroup"
+msgstr "Ապախմբավորել"
+
+msgid "Update check failed"
+msgstr "Թարմացման ստուգումը ձախողվեց"
+
+msgid "Update failed"
+msgstr "Թարմացումը ձախողվեց"
+
+msgid "Update not needed"
+msgstr "Կարիք չկա թարմացնելու"
+
+msgid "Update now"
+msgstr "Թարմացնել հիմա"
+
+msgid "Upload backdrop from file"
+msgstr "Վերբեռնել ետնապատկերը նիշքից"
+
+msgid "Upload costume from file"
+msgstr "Վերբեռնել զգեստը պանակից"
+
+msgid "Upload failed"
+msgstr "Վերբեռնումը ձախողվեց"
+
+msgid "Upload from your computer"
+msgstr "Վերբեռնել համակարգչից"
+
+msgid "Upload sound from file"
+msgstr "Վերբեռնել ձայնը պանակից"
+
+msgid "Upload sprite from file"
+msgstr "Վերբեռնել կերպարը պանակից"
+
+msgid "Uploading image..."
+msgstr "Պատկերի վերբեռնում..."
+
+msgid "Uploading sound..."
+msgstr "Ձայնի վերբեռնում․․․"
+
+msgid "Uploading sprite..."
+msgstr "Կերպարի վերբեռնում․․․"
+
+msgid "Variable name"
+msgstr "Փոփոխականի անունը"
+
+msgid "Vector"
+msgstr "Վեկտոր"
+
+msgid "Vector Mode"
+msgstr "Վեկտորի ռեժիմ"
+
+msgid "Vibraphone"
+msgstr "Թրթռաֆոն"
+
+msgid "Vibraslap"
+msgstr "Թրթռահարված"
+
+msgid "Video on:"
+msgstr "Տեսագրումը միացված է ՝"
+
+msgid "Visit download page"
+msgstr "Գնալ ներբեռնելու էջը"
+
+msgid "Vocals"
+msgstr "Վոկալ"
+
+msgid "Walking"
+msgstr "Քայլ"
+
+msgid "Want to save? Click remix"
+msgstr "Ցանկանո՞ւմ եք պահպանել: Սեղմեք նոր տարբերակ ունենալու համար"
+
+msgid "Which column do you want to import"
+msgstr "Ո՞ր սյունակն եք ցանկանում ներմուծել"
+
+msgid "Wood Block"
+msgstr "Փայտե թմբուկ"
+
+msgid "Wooden Flute"
+msgstr "Փայտե ֆլեյտա"
+
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that "
+"you make in the editor will be temporary and not persistent."
+msgstr ""
+"Չեք կարող խմբագրել ամպային տվյալները մեկ ուրիշի նախագծում:<br> Ցանկացած "
+"փոփոխություն, որ կատարեք խմբագրային բաժնում, կլինեն ժամանակավոր և չեն կարող "
+"պահպանվել:"
+
+msgid "Your Scratch name"
+msgstr "Ձեր Scratch֊ի անունը"
+
+msgid "Your Scratch name is required"
+msgstr "Scratch անունը պարտադիր է"
+
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr "Ձեր նախագիծը վերբեռնվել է scratch.mit.edu կայքում"
+
+msgid "a copy of the project file on your computer."
+msgstr "ձեր նախագծի նիշքի պատճենը համակարգչում։"
+
+msgid "abs"
+msgstr "abs (մոդուլ)"
+
+msgid "acos"
+msgstr "արկկոսինուս"
+
+msgid "add comment"
+msgstr "ավելացնել մեկնաբանություն"
+
+msgid "all"
+msgstr "ամբողջը"
+
+msgid "all around"
+msgstr "շուրջ բոլորը"
+
+msgid "any"
+msgstr "այլ"
+
+msgid "asin"
+msgstr "արկսինուս"
+
+msgid "assets loaded"
+msgstr "միջոցները բեռնված են"
+
+msgid "atan"
+msgstr "արկտանգես"
+
+msgid "backdrop"
+msgstr "ետնապատկեր"
+
+msgid "backdrop1"
+msgstr "ետնապատկեր1"
+
+msgid "backdrops"
+msgstr "ետնապատերներ"
+
+msgid "brightness"
+msgstr "պայծառություն"
+
+msgid "button pressed"
+msgstr "կոճակը սեղմված է"
+
+msgid "by"
+msgstr "կողմից"
+
+msgid "bytes loaded"
+msgstr "բիթ բեռնված է"
+
+msgid "can drag in player:"
+msgstr "կարելի է սահեցնել ՝"
+
+msgid "ceiling"
+msgstr "կլորացում դեպի վեր"
+
+msgid "clean up"
+msgstr "Հավաքել"
+
+msgid "clear senders/receivers"
+msgstr "Մաքրել հեռագրողներին/ընդունողներ"
+
+msgid "color"
+msgstr "գույն"
+
+msgid "copy"
+msgstr "պատճենել"
+
+msgid "cos"
+msgstr "կոսինուս"
+
+msgid "costume1"
+msgstr "զգեստ1"
+
+msgid "costume2"
+msgstr "զգեստ2"
+
+msgid "cut"
+msgstr "կտրել"
+
+msgid "date"
+msgstr "ամսաթիվ"
+
+msgid "day of week"
+msgstr "շաբաթվա օր"
+
+msgid "delete"
+msgstr "ջնջել"
+
+msgid "delete variable"
+msgstr "ջնջել փոփոխականը"
+
+msgid "direction:"
+msgstr "ուղղություն՝"
+
+msgid "don't rotate"
+msgstr "չպտտել"
+
+msgid "down"
+msgstr "ներքև"
+
+msgid "down arrow"
+msgstr "վար սլաքը"
+
+msgid "duplicate"
+msgstr "կրկնօրինակել"
+
+msgid "e ^"
+msgstr "e ^"
+
+msgid "edge"
+msgstr "եզր"
+
+msgid "edit"
+msgstr "խմբագրել"
+
+msgid "export"
+msgstr "արտահանել"
+
+msgid "fade in"
+msgstr "հայտնվել"
+
+msgid "fade out"
+msgstr "անհայտանալ"
+
+msgid "fisheye"
+msgstr "ձկան աչք"
+
+msgid "floor"
+msgstr "Կլորացում դեպի վար"
+
+msgid "ghost"
+msgstr "ուրվական"
+
+msgid "help"
+msgstr "օգնություն"
+
+msgid "hour"
+msgstr "ժամ"
+
+msgid "import"
+msgstr "ներմուծել"
+
+msgid "large readout"
+msgstr "ընթերցման լիաէկրան"
+
+msgid "last"
+msgstr "վերջին"
+
+msgid "left"
+msgstr "ձախ"
+
+msgid "left arrow"
+msgstr "ձախ սլաք"
+
+msgid "left-right"
+msgstr "ձախ-աջ"
+
+msgid "length"
+msgstr "երկարություն"
+
+msgid "light"
+msgstr "լույս"
+
+msgid "limit reached"
+msgstr "հասել է վերջնակետին"
+
+msgid "list"
+msgstr "ցուցակ"
+
+msgid "ln"
+msgstr "ln"
+
+msgid "log"
+msgstr "log"
+
+msgid "louder"
+msgstr "ավելի բարձր"
+
+msgid "meow"
+msgstr "մյաու"
+
+msgid "message1"
+msgstr "հաղորդագրություն1"
+
+msgid "minute"
+msgstr "րոպե"
+
+msgid "month"
+msgstr "ամիս"
+
+msgid "mosaic"
+msgstr "մանրապատկեր"
+
+msgid "motion"
+msgstr "շարժում"
+
+msgid "mouse-pointer"
+msgstr "մկնիկի սլաքը"
+
+msgid "myself"
+msgstr "իմ"
+
+msgid "new message..."
+msgstr "նոր հաղորդագրություն..."
+
+msgid "normal readout"
+msgstr "Ընթերցման նորմալ էկրան"
+
+msgid "of"
+msgstr "ի"
+
+msgid "off"
+msgstr "անջատել"
+
+msgid "on"
+msgstr "միացնել"
+
+msgid "on-flipped"
+msgstr "շրջված"
+
+msgid "other scripts in sprite"
+msgstr "կերպարի այլ սցենարներ"
+
+msgid "other scripts in stage"
+msgstr "բեմի այլ սցենարներ"
+
+msgid "paste"
+msgstr "տեղադրել"
+
+msgid "photo1"
+msgstr "լուսանկար1"
+
+msgid "pixelate"
+msgstr "պիքսելների խոշորացում"
+
+msgid "pop"
+msgstr "փոփ"
+
+msgid "previous backdrop"
+msgstr "նախորդ ետնապատկեր"
+
+msgid "random"
+msgstr "պատահական"
+
+msgid "random position"
+msgstr "պատահական դիրք"
+
+msgid "record..."
+msgstr "ձայնագրություն․․․"
+
+msgid "recording1"
+msgstr "ձայնագրություն1"
+
+msgid "redo"
+msgstr "վերարկել"
+
+msgid "rename variable"
+msgstr "անվանափոխել փոփոխականը"
+
+msgid "requires sign in"
+msgstr "Պահանջում է մուտք գործել"
+
+msgid "resistance-A"
+msgstr "դիմադրություն-A"
+
+msgid "resistance-B"
+msgstr "դիմադրություն-B"
+
+msgid "resistance-C"
+msgstr "դիմադրություն-C"
+
+msgid "resistance-D"
+msgstr "դիմադրություն-D"
+
+msgid "reverse"
+msgstr "շրջել"
+
+msgid "right"
+msgstr "աջ"
+
+msgid "right arrow"
+msgstr "աջ սլաք"
+
+msgid "rotation style:"
+msgstr "պտույտի ոճը ՝"
+
+msgid "save to local file"
+msgstr "Պահել տեղային պանակում"
+
+msgid "second"
+msgstr "երկրորդ"
+
+msgid "select all"
+msgstr "ընտրել բոլորը"
+
+msgid "set slider min and max"
+msgstr "կայել սահիչի նվազագույնը և առավելագույնը"
+
+msgid "shared"
+msgstr "կիսված է"
+
+msgid "show:"
+msgstr "ցուցադրել ՝"
+
+msgid "silence"
+msgstr "լռություն"
+
+msgid "sin"
+msgstr "սինուս"
+
+msgid "slider"
+msgstr "սահիչ"
+
+msgid "softer"
+msgstr "ավելի փափուկ"
+
+msgid "sound"
+msgstr "ձայն"
+
+msgid "space"
+msgstr "բացատ"
+
+msgid "sqrt"
+msgstr "արմատ"
+
+msgid "tan"
+msgstr "տանգենս"
+
+msgid "text"
+msgstr "տեքստ"
+
+msgid "that way"
+msgstr "այնտեղ"
+
+msgid "this script"
+msgstr "այս սցենարը"
+
+msgid "this sprite"
+msgstr "այս կերպարը"
+
+msgid "this way"
+msgstr "այստեղ"
+
+msgid "undo"
+msgstr "հետարկել"
+
+msgid "unshared"
+msgstr "Չկիսված"
+
+msgid "up"
+msgstr "վեր"
+
+msgid "up arrow"
+msgstr "վեր սլաք"
+
+msgid "variable"
+msgstr "փոփոխական"
+
+msgid "video direction"
+msgstr "տեսագրության ուղղություն"
+
+msgid "video motion"
+msgstr "տեսագրության շարժում"
+
+msgid "whirl"
+msgstr "մրրիկ"
+
+msgid "year"
+msgstr "տարի"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Տեղեկություն ամպային փոփոխականների վերաբերյալ</b><br>&nbsp;"
+"<br>Ներկայումս միայն թվերի դեպքում է աշխատում<br>Զրուցարաներ չեն "
+"թույլատրվում և կհեռացվեն<br>մանրամասների համար. <a href= target=>տես "
+"ամպային տվյալների FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Սեղմել   նորից փորձելու կամ  պահելու համար:"
+
+msgid "Cloud"
+msgstr "Ամպային տվյալներ"
+
+msgid "costume name"
+msgstr "զգեստի անունը"
+
+msgid "Costumes:"
+msgstr "Զգեստներ՝"
+
+msgid "Eraser width:"
+msgstr "Ռետինի չափսը ՝"
+
+msgid "Line width:"
+msgstr "Գծի չափսը."
+
+msgid "Scripts:"
+msgstr "Սցենարներ ՝"
+
+msgid "show receivers"
+msgstr "Ցույց տալ ընդունողներին"
+
+msgid "show senders"
+msgstr "Ցույց տալ հեռագրողներին"
+
+msgid "stored on server"
+msgstr "Պահված է սերվերում"
